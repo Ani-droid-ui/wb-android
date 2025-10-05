@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Lavender Theme -->
+    <color name="lavender_bg">#f5f0ff</color>
+    <color name="lavender_border">#7d33b8</color>
+    
+    <!-- Mint Theme -->
+    <color name="mint_bg">#e6fff5</color>
+    <color name="mint_border">#66cdaa</color>
+    
+    <!-- Baby Blue Theme -->
+    <color name="babyblue_bg">#e0f7ff</color>
+    <color name="babyblue_border">#87ceeb</color>
+    
+    <!-- Pink Theme -->
+    <color name="pink_bg">#fff0f5</color>
+    <color name="pink_border">#ff69b4</color>
+</resources>
