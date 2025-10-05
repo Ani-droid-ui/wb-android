@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WidgetBloom</string>
+    <string name="welcome_message">🌷Welcome to WidgetBloom🌷</string>
+    <string name="current_time">CURRENT TIME</string>
+    <string name="daily_affirmation">DAILY AFFIRMATION</string>
+    <string name="local_weather">LOCAL WEATHER</string>
+    <string name="your_photo">YOUR PHOTO</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="email_feedback">Email Feedback</string>
+    <string name="city_hint">City name</string>
+    <string name="get_weather">Get</string>
+    <string name="theme_lavender">Lavender</string>
+    <string name="theme_mint">Mint</string>
+    <string name="theme_babyblue">Baby Blue</string>
+    <string name="theme_pink">Pink</string>
+    <string name="loading">Loading...</string>
+</resources>
