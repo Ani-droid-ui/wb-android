@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Base.Theme.WidgetBloom" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#7d33b8</item>
+        <item name="colorPrimaryVariant">#5a1f8a</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">#66cdaa</item>
+        <item name="colorSecondaryVariant">#4a9d7f</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">#7d33b8</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.WidgetBloom" parent="Base.Theme.WidgetBloom" />
+</resources>
