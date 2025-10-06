@@ -15,4 +15,5 @@
     <string name="theme_babyblue">Baby Blue</string>
     <string name="theme_pink">Pink</string>
     <string name="loading">Loading...</string>
+    <string name="widget_description">Display time, date, and daily affirmations</string>
 </resources>
